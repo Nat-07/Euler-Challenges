@@ -1,6 +1,6 @@
 # Euler Challenges
 
-This repository serves as a cumulation of solutions to [Euler Challenges](https://projecteuler.net/about).
+This repository serves as a cumulation of solutions to [Euler Challenges](https://projecteuler.net/about). The problems are done with the intention of having fun and solving to solve, thus solutions are not always done with efficiency in mind. 
 
 | Problem #||
 | ----------- | ----------- |
