@@ -5,8 +5,6 @@ This repository serves as a cumulation of solutions to [Euler Challenges](https:
 | Problem #||
 | ----------- | ----------- |
 | 1   |   Completed     |
-| 2   | Completed        |
-| 3   | Completed        |
 | 4   | Completed        |
 | 5   | Completed        |
 | 6   | Completed        |
@@ -19,7 +17,6 @@ This repository serves as a cumulation of solutions to [Euler Challenges](https:
 | 30  | Completed        |
 | 48  | Completed        |
 | 52  | Completed        |
-
 
 <br />
 
