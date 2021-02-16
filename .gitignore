@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# ignore .DS_store
+*.DS_store
+
+# ingnore .vscode
+*.vscode
